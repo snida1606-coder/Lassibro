@@ -1315,7 +1315,7 @@ GEMINI_API_KEYS = [
     k.strip() for k in os.environ.get("GEMINI_API_KEY", "").split(",") if k.strip()
 ]
 
-OWNER_ID = 8096070194
+OWNER_ID = 8520206066
 
 try:
     import news as news_mod
